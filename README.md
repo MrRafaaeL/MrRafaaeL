@@ -21,4 +21,6 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=62559740)
 
+![Snake animation](https://github.com/MrRafaaeL/MrRafaaeL/blob/output/github-contribution-grid-snake.svg)
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=MrRafaaeL&color=blue" alt="MrRafaaeL profile views" /> </p>
