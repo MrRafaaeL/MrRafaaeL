@@ -2,8 +2,6 @@
 
 - 🔥 Trabalho atualmente em um projeto pessoal (AspectMania)
 
-- ⚔️ Extensa experiência em Factions e RankUP
-
 - 💼 Aceito encomendas!
 
 ➟ INFOS:
