@@ -1,6 +1,6 @@
 # Olá! Seja bem-vindo ao meu perfil. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px"> 
 
-- 🔥 Trabalho atualmente em um projeto pessoal (AspectMania)
+- 🔥 Trabalho atualmente na RedeDust (Servidor de Minecraft iniciante) como gerente de projetos e desenvolvedor chefe de um dos departamentos.
 
 ➟ INFOS:
 
